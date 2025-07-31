@@ -6,7 +6,7 @@
 
 - Язык программирования Java
 - Инструмент сборки Maven
-- Фреймворк Spring-Boot
+- Фреймворк Spring-Boot (в частности SB-web, SB-data-jpa и SB-security)
 - База данных PostgreSQL
 - Брокер сообшений RabbitMQ
 
